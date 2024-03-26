@@ -1,7 +1,7 @@
 # Unit-Conversion
 A Unit Converter built with HTML, CSS and Vanilla JavaScript.
 
-View the finished project on [Netlify]([unit-conv1.netlify.app](https://unit-conversionn.netlify.app/))!
+View the finished project on [Netlify](unit-conversionn.netlify.app)!
 
 
 
